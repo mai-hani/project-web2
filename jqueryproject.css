@@ -1,0 +1,54 @@
+body{
+  background-color:#4a3f35;
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-left: 300px;
+  max-width: 1000px;
+  font-size: 5em;
+}
+p{
+  color: white;
+}
+#green{
+  float: left;
+  position: absolute;
+  margin-left: 100px;
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  border-radius: 50px;
+  border: 10px solid black;
+}
+#red{
+  float: right;
+  margin-right: 400px;
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border-radius: 50px;
+  border: 10px solid black;
+}
+#yellow{
+  float: left;
+  position: absolute;
+  margin-left: 100px;
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  margin-top: 250px;
+  border-radius: 50px;
+  border: 10px solid black;
+}
+#blue{
+  float: right;
+  margin-right: 400px;
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  margin-top:30px;
+  border-radius: 50px;
+  border: 10px solid black;
+}
+.press{
+  background-color: #4a3f35;
+  box-shadow: 0px 0px 4px 4px white;
+}
